@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:path*", "destination": "https://vayloe-checkpoint.vercel.app/:path*" }
+  ]
+}
